@@ -1,23 +1,27 @@
-# Sales Data Analysis Project
+# Customer Churn Prediction using Machine Learning
+## 📌 Project Overview
+This project predicts customer churn using machine learning techniques.
 
-## Objective
-Analyze sales data to identify trends and business insights.
-
-## Tools Used
+## 🛠️ Technologies Used
 - Python
-- Pandas
-- Matplotlib
+- Pandas, NumPy
+- Scikit-learn
 
-## Process
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
+## 📊 Steps Performed
+- Data cleaning and preprocessing
+- Encoding categorical variables
+- Feature scaling
+- Logistic Regression model building
+- Model evaluation
 
-## Business Insights
-- West region shows highest sales performance
-- Technology category drives maximum revenue
-- Seasonal sales trends observed across months
+## 📈 Results
+- Accuracy: ~89%
+- Strong precision and recall
 
-## Business Impact
-- Helps companies optimize sales strategies
-- Supports better decision-making using data
+## 💡 Business Insights
+- Customers with monthly contracts churn more
+- More support calls increase churn probability
+- High spending customers stay longer
+
+## 🚀 Conclusion
+This model helps businesses reduce churn and improve retention.
